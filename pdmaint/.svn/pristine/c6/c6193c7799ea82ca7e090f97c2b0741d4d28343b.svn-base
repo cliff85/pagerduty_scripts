@@ -1,0 +1,12 @@
+[pagerduty]
+# PagerDuty API key.  To obtain a key visit https://<your_account>.pagerduty.com/api_keys
+api_key=Edxky5o2GsKzk6S2Tpxy
+
+# e-mail address associated with a PagerDuty account
+email=cfrasure@crossview.com
+
+# The name of your account. From: https://your_account.pagerduty.com/
+account=crossview
+
+# Your local timezone.  The tzinfo utility can be used to see all valid values.
+timezone=US/Eastern
